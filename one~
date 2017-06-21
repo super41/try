@@ -1,1 +1,5 @@
-now it s two
+<<<<<<< HEAD
+local now it s three hacccc
+=======
+github now is four 
+>>>>>>> a22b5027bd08171276d93991888a20d79d001724
